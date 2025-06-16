@@ -1,4 +1,12 @@
 # API - Gerenciamento de Usuários
+```
+Marcelo de Souza Silva Junior - 23028117-2
+Diogo Caua Da Silva Siqueira - 23307719-2
+Gustavo Henrique de Oliveira - 23152090-2
+Alan Biazebeti Balan - 23350038-2
+Lucas Marim Freitas - 23190348-2
+Leonardo Oliveira Stefano - 23202896-2
+```
 ## Endpoint: 
 ### Registrar Usuário
  
